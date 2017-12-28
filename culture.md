@@ -1,43 +1,43 @@
 # Company culture
 
 There are many ideas about good and bad company culture, suggestions on how to build one and different 
-experiments conducted by founders building company culture.
+experiments conducted by founders building ones.
 
-There are many debates on what consitutes good or bad company culture, what are good and bad company values.
+Corporate culture is usually declared via set of "core values" - principles that are declared explicitly,
+and enforced implicitly via rewards and punishment systems or explicitly with some hiring or performance evaluation process.
 
-E.g. some folk consider "Customer first" a bad company culture core value and some consider "No B.S." a good one.
+There are many debates on what consitutes good or bad company culture and what are good and bad company values.
 
-## Questions and concerns
+When coming up with core values, some folk consider "Customer first" a bad company culture core value and some consider "No B.S." a good one.
 
-In the spirit of questioning everything, I am asking myself all those questions:
+In the spirit of questioning everything, I have many questions and concerns about the whole idea, mostly because I often encountered things go wrong, and very rarely seen core values succeed.
 
-### Why have special corporate culture at all?
+## Why have special corporate culture at all?
 
 Why company needs somewhat special culture or core values different from the culture of the society it exists in? 
 
 I think that there is a perception that special culture somehow contributes to the company success or failure,
 differentiates the company somehow from the competition and makes it good or a bad place to work. 
-(e.g. Amazon famous culture).
 
 However I have never read the actual study on effects of corporate culture on the company success.
 
-The second argument that I've heard is that culture could be used to attract like-minded individuals,
+The other argument that I've heard is that culture could be used to attract like-minded individuals,
 however in my opinion it is hard to quantify what "like mindedness" usually means and whether it 
 leads to good results. 
 
-Even at companies I worked at/created were stating implicit minor culture principles, that proved to be successfully challenged
-by people joining the team - e.g. some folks did not like text editors (something we declared in our text ad) and liked
-"enterprisey text editors" we did not like.
+Even at companies I worked at/created we were stating implicit culture principles, that proved to be successfully challenged, for example in some of our ads we mentioned that we are "hackers using emacs or vim" because we thought that it would attract some special folks - hackers, who like sitting in their terminals, and digging kernel sources.
+
+Poeple joining the team found this line in the ad ridiculous, as they were using Microsoft VS or Eclipse. Turned out they were great hackers after all, and just laughed at this part of the ad. Later I realized that this was pretty stupid idea that editor choice somehow reflects personality of a user, but this is a good example of our biases disguised as "culture" statements.
 
 The third argument is that company culture can be used as a safe guard - to signal that company is a safe 
-work environment for minorities. This argument resonates with me, but I am not sure why the culture for it has to be somewhat unique -
-why not simply state and reiterate that common society principles are respected in the company. (I'm going to elaborate on this 
-bit later).
+work environment for people of all minorities. This argument resonates with me, mostly because in current by-defaut-hostile tech environment any company has to declare conformance to basic common principles to signal that its a safe and reasonable place to work, however I would not state that this requires some special company culture, and simple basic society norms still apply - the point that I'm going to elaborate on later.
 
-### Dangers of implementing corporate culture.
+## Dangers of implementing corporate culture.
 
 Implementing any corporate culture is doing a social experiment on the company, sometimes
-under pressure and with limited time span. Here are some dangers I see when implementing and enforcing 
+under pressure and with limited time span and resources.
+
+Here are some dangers I see when implementing and enforcing 
 company culture:
 
 * Implementation is usually done and promoted by leadership, this means there is a strong i
