@@ -9,7 +9,7 @@ experiments conducted by company leaderships.
 
 I was always curious about the whole space, mostly because I encountered statements declared as truths, while being very subjective and questionable.
 
-For example, some consider "Customer first" to be a bad core value whle "No Bullshit" to be a good one.
+For example, some consider "Customer first" to be a bad core value while "No Bullshit" to be a good one.
 
 In the spirit of questioning everything I wrote down my main concerns about the general idea, some cautinary tales and personal experiences I had with implementations go wrong and propose an alternative approach.
 
