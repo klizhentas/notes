@@ -21,7 +21,7 @@ differentiates the company from the competition and makes it good or a bad place
 
 However I have never read the actual study on positive effects of corporate culture on the company success. In the ones that I have read, folks came to realization that basic common sense principles [still works the best](https://www.nytimes.com/2016/02/28/magazine/what-google-learned-from-its-quest-to-build-the-perfect-team.html).
 
-The other argument is that culture could be used to attract like-minded individuals,
+The other argument is that culture could be used to attract like-minded people,
 however in my opinion it is hard to quantify what "like mindedness" usually means and whether it 
 leads to good results. 
 
