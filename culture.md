@@ -19,7 +19,7 @@ Why company needs somewhat special culture or core values different from the cul
 There is a perception that special culture somehow contributes to the company success or failure,
 differentiates the company from the competition and makes it good or a bad place to work. 
 
-However I have never read the actual study on positive effects of corporate culture on the company success. In the ones that I have read, folks came to realization that basic common sense principles [still work the best](https://www.nytimes.com/2016/02/28/magazine/what-google-learned-from-its-quest-to-build-the-perfect-team.html)
+However I have never read the actual study on positive effects of corporate culture on the company success. In the ones that I have read, folks came to realization that basic common sense principles [still work the best].(https://www.nytimes.com/2016/02/28/magazine/what-google-learned-from-its-quest-to-build-the-perfect-team.html)
 
 The other argument is that culture could be used to attract like-minded individuals,
 however in my opinion it is hard to quantify what "like mindedness" usually means and whether it 
