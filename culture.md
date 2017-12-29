@@ -51,9 +51,17 @@ are very dangerous for the team, e.g [here](https://a16z.com/2014/07/22/how-to-r
 Methods of establishing such cultures are scientifically unproven, for example folks conduct special 
 "culture panels" filtering out candidates, but how do they know they have succeeded? In the blog posts CEOs implementing such cultures, never mention if they have a control group for this experiment, or how do they measure any success or failure and whether they conduct anonimous interviews and studies to check effects?
 
-When I read those articles without mentioning any research or any prior phisophical and sociological basis, I think that this is then aspirational set of random things founders consider to be important at this particular moment of their lives, set of biases or beliefs stated as core values.
+When I read those articles without mentioning any research or any prior phisophical and sociological basis, I think that this is then aspirational set of random things founders consider to be important at this particular moment of their lives, set of biases or beliefs stated as core values. 
 
 For a larger company implementing a corporate culture very often leads to attracting "business consultants" helping out with culture - six sigma style folks who distract and annoy employees. As in "Pacific Bell Story" from 1987 using some obscure half mystic techniques and [imposing them on the working folks](https://www.theguardian.com/news/2017/nov/23/from-inboxing-to-thought-showers-how-business-bullshit-took-over)
+
+Many times I have personally encountered the company culture go wrong and leading to strange and unintended consequences. 
+
+One of the companies I worked at declared that it treated every employee as "Friends and family". This core value did not work at all when company had to set a round of layoffs. Who fires their friends and family when things go bad? This tells me that while being well intentioned this value did not work at all in a professional setting when company has sometimes to fire people who underperform and reward high performers - things not compatible with "family and friends" value at all.
+
+Another company wanted to foster techical leadership and invited us on the training session, where coach asked us to write our own obituaries and read them out loud. May be it is a cultural thing, but it did not resonate well with me as I was not ready for this very-personal exposure in a setting with folks who I met a day ago.
+
+I am sure that both coach and the company were well-meaning, but many times mixing moral, personal and human values, principles and events in a rushed training session format leads to very strange and even ridiculous outcomes.
 
 ## No special culture culture
 
