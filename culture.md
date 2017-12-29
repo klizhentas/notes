@@ -1,25 +1,23 @@
 # Company culture
 
+Corporate culture is usually declared as a set of "core values" - moral and business principles that are declared explicitly,
+enforced implicitly via rewards and punishment systems or explicitly with some hiring or performance evaluation process.
+
 There are many ideas about good and bad company culture, suggestions on how to build one and different 
 experiments conducted by founders building ones.
 
-Corporate culture is usually declared via set of "core values" - principles that are declared explicitly,
-and enforced implicitly via rewards and punishment systems or explicitly with some hiring or performance evaluation process.
+For example, some folk consider "Customer first" to be a bad core value whle "No B.S." to be a good one.
 
-There are many debates on what consitutes good or bad company culture and what are good and bad company values.
-
-When coming up with core values, some folk consider "Customer first" a bad company culture core value and some consider "No B.S." a good one.
-
-In the spirit of questioning everything, I have many questions and concerns about the whole idea, mostly because I often encountered things go wrong, and very rarely seen core values succeed.
+In the spirit of questioning everything, I have some questions and concerns about the whole idea.
 
 ## Why have special corporate culture at all?
 
 Why company needs somewhat special culture or core values different from the culture of the society it exists in? 
 
 I think that there is a perception that special culture somehow contributes to the company success or failure,
-differentiates the company somehow from the competition and makes it good or a bad place to work. 
+differentiates the company from the competition and makes it good or a bad place to work. 
 
-However I have never read the actual study on effects of corporate culture on the company success.
+However I have never read the actual study on effects of corporate culture on the company success. Even in studies by Google, they came to realization that basic common sense principles [still work the best](https://www.nytimes.com/2016/02/28/magazine/what-google-learned-from-its-quest-to-build-the-perfect-team.html)
 
 The other argument that I've heard is that culture could be used to attract like-minded individuals,
 however in my opinion it is hard to quantify what "like mindedness" usually means and whether it 
@@ -76,5 +74,5 @@ tie the moral core values of the company to the ones of modern societies as in U
 Companies also have their own specific goals and properties caused by the markets they operate in - e.g. Amazon being a retailer
 has to be margin efficient, Google has to be smart when it comes to search and A.I. I think these goals are more ojbective
 and easier to understand because they don't try to step into complex moral values territory, could be changed over time
-as the company evolves without fear of sacrificing some "core values" that made sense before.
+as the company evolves without fear of sacrificing some "core values" that made sense before. For example every startup has to be "nimble and agile", "experiment and break things" but after the startup has evolved in multi-national corporation and started building rockets, "nimble" as a corporate culture item probably won't longer apply at all times.
 
