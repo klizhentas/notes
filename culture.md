@@ -99,6 +99,8 @@ as the company evolves without fear of sacrificing some "core values" that made 
 
 For example every startup has to be "nimble and agile", "experiment and break things" but after it has evolved in multi-national corporation and started building rockets, "nimble" as a corporate culture will be a problem, but changing a company goal for a rocket-building division will be a reasonable thing to do.
 
+Goals can be meausred using metrics like support response times, customer satisfaction ratings, margins and profits. Service departments can focus more on support metrics, customer satisfaction, while engineering departments will be using different set of metrics as defects and regressions ratios, metrics measuring product quality like regression ratios and bug report counts. 
+
 ## Stating basic moral principles
 
 As I mentioned before, our current tech culture is very toxic by default, that's why explicitly stating and over communicating basic principles is a good thing and should not be just a part of some company moral culture, but a minimum qualifying checklist for any company. 
