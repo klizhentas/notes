@@ -127,5 +127,9 @@ This is a good way to signal that company cares about people being polite and pr
 
 I would argue again, that these should not be some differentiating company culture principles, but these are in fact basic society moral principles reinforced by companies that care and translated to work environment terms.
 
-I think that many companies get away with their corporate cultures, because they simply pick (sometimes randomly) one of the basic society principles and apply it universally. People who work at those companies of course agree with not hiring jerks, avoiding bullshit or caring about customers and simply tolerate the usual corporate speak noise while focusing on their daily jobs.
+I think that many companies get away with their corporate cultures, because they simply pick (semi-randomly) one of the basic society principles, translate it to tech corporate speak and declare it a corporate culture core value. 
+
+People who work at those companies of course agree with not hiring jerks, avoiding bullshit or caring about customers and choose to ignore the usual corporate speak while focusing on their daily jobs. 
+
+That was I was doing many times in my career.
 
