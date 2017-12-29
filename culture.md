@@ -1,7 +1,7 @@
 # Company culture
 
 Corporate culture is usually declared as a set of "core values" - moral and business principles that are declared explicitly,
-enforced implicitly via rewards and punishment systems or explicitly with some hiring or performance evaluation process.
+enforced implicitly using rewards and punishment system or explicitly with some hiring or performance evaluation process.
 
 There are many ideas about good and bad company culture, suggestions on how to build one and different 
 experiments conducted by founders building ones.
