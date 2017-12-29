@@ -59,7 +59,7 @@ For a larger company implementing a corporate culture very often leads to attrac
 
 ## How it all can go wrong
 
-Many times I have personally encountered the company culture go wrong and leading to strange and unintended consequences. 
+Several times I have personally encountered the company culture go wrong and leading to strange and unintended consequences. 
 
 One of the companies I worked at declared that it treated every employee as "Friends and family". This core value did not work at all when company had to set a round of layoffs. Who fires their friends and family when things go bad? This tells me that while being well intentioned this value did not work at all in a professional setting when company has sometimes to fire people who underperform and reward high performers - things not compatible with "family and friends" value at all.
 
