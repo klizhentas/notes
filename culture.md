@@ -43,8 +43,7 @@ Implementation is usually done and promoted by the leadership and there is a str
 
 Even when declared as collaborative process it is usually enforced and implemented by the top management. Middle management can use see this as an opportunity to get rid of folks who [disagree](https://www.theguardian.com/news/2017/nov/23/from-inboxing-to-thought-showers-how-business-bullshit-took-over) or seen as a threat to someone's career.
   
-The failure of such experiment can result in failures - high churn churn rates [like in Zappos](https://qz.com/849980/zappos-is-struggling-with-holacracy-because-humans-arent-designed-to-operate-like-software/) and [Github](https://www.bloomberg.com/news/articles/2016-09-06/why-github-finally-abandoned-its-bossless-workplace) with their 
-flat hierarchies. 
+The failure of such experiment can result in high churn churn rates [like in Zappos](https://qz.com/849980/zappos-is-struggling-with-holacracy-because-humans-arent-designed-to-operate-like-software/) or [Github](https://www.bloomberg.com/news/articles/2016-09-06/why-github-finally-abandoned-its-bossless-workplace) with their experiments on flat hierarchies. 
 
 Leaders often find that well-intentioned culture statements, can lead to processes that 
 are very dangerous [for the team](https://a16z.com/2014/07/22/how-to-ruin-your-company-with-one-bad-process/).
@@ -52,7 +51,7 @@ are very dangerous [for the team](https://a16z.com/2014/07/22/how-to-ruin-your-c
 Methods of establishing such cultures are scientifically unproven, for example folks conduct special 
 "culture panels" filtering out candidates, but how do they know they have succeeded? In the blog posts CEOs implementing such cultures, never mention if they have a control group for this experiment, or how they measure success or failure and whether they conduct anonymous interviews and studies to check effects.
 
-When I read these articles that don't mention any research or any phisophical and sociological basis, I see a set of aspirational statements that founders consider to be important at this particular moment of their lives, set of biases or beliefs stated as core values with undefined effect on the company.
+When I read these articles that don't mention any research or any phisophical and sociological basis, I see a set of aspirational statements and naive practices that founders consider to be important at this particular moment of their lives, set of biases or beliefs stated as core values with undefined effect on the company.
 
 A larger company implementing corporate culture attracts "business consultants" - six sigma-style folks who often distract and annoy employees by introducing rigid processes and artificial terms. Or even worse like in "Pacific Bell Story" from 1987, when company used some obscure half mystic techniques and [imposed them as a cult](https://www.theguardian.com/news/2017/nov/23/from-inboxing-to-thought-showers-how-business-bullshit-took-over).
 
@@ -62,24 +61,23 @@ Several times I have encountered the cases of company culture going wrong and le
 
 One of the companies I worked at declared that it "treated every employee as friends and family". This core value did not work at all when company had to do a round of layoffs. Who fires their friends and family when things go bad? This tells me that while being well intentioned this value does not work in a professional setting when company has sometimes to fire people who underperform and reward high performers.
 
-Another company wanted to foster techical leadership and invited us on the training session, where coach asked us to write our own obituaries and read them out loud. May be it is a cultural thing, but it did not resonate well with me as I was not ready for this very-personal exposure in a setting with folks who I met a day ago.
+Another company wanted to foster techical leadership and invited workers in the training session, where at some point coach asked us to write our own obituaries and read them out loud. It did not resonate well with me as I was not ready for this very-personal exposure in a setting with folks who I met a day ago.
 
 I am sure that both the coach and the company were well-meaning, but often promoting moral values and principles in a rushed training session format leads to very strange and even ridiculous outcomes.
 
-The best corporate trainings [I had](https://www.helloinnerspace.org/) were all about basic, human interactions that promoted and helped to practice simple values like being respectful and polite, training us on providing feedback and listening to each other. Those ones had big impact on me both in and outside of the company setting.
+The best corporate trainings [I had](https://www.helloinnerspace.org/) were all about basic, human interactions that promoted and helped to practice simple values like being respectful and polite, providing feedback and listening to each other. Those ones had big impact on me both in and outside of the company setting.
 
 ## No special culture culture
 
-The society we live in promotes many basic core values we all share, for example, be kind and respectful to each other, be polite, 
-celebrate diversity, respect basic human rights.
+The society we live in promotes many basic core values we all share, for example, be kind and respectful to each other, be polite, celebrate diversity and respect basic human rights.
 
 U.S. also promotes the freedom of speech, the spirit of enterpreneurship, acceptance of failure and 
 establishes the rule of the law - great values that are keys to it's success story.
 
 Those basic principles are the fabric of our society, often invisible, ever changing,
-but we can feel their presence and are in common agreement on all of them.
+but we can feel their presence and we learn over time how to get in common agreement on them and develop new ones.
 
-Why not stick to those basic principles, when society uses very complicated process to establish, verifies them through voting,
+Why not stick to those principles, when society uses very complicated process to establish, verifies them through voting,
 philosophical debates, revolutions, economy ups and downs over hundreds, sometimes thousands of years, comes
 up through [multi-national consensus](http://www.ohchr.org/EN/UDHR/Documents/UDHR_Translations/eng.pdf)?
 
@@ -87,12 +85,11 @@ I understand that having no special culture at all is a culture on it's own.
 
 ## Company goals and practices as alternatives to company culture
 
-Instead of calling something a culture, coming up core values and conducting social experiments using risky and unproven methods, I suggest to simply 
-tie the moral core values of the company to basic principles of the modern society.
+Instead of calling something a culture, coming up with a set of core values and conducting social experiments using risky and unproven methods, I suggest to simply tie the moral core values of the company to basic principles of the modern society.
 
 Companies should focus on specific goals and develop practices influenced by the markets they operate in, the products they are building and their stage, for example Amazon being a retailer has to be margin efficient, Google has to be smart when it comes to search and A.I. 
 
-I think that setting goals and practices is more objective and easier to understand because they don't try to step into complex world of moral values, and could be changed over time as the company evolves without fear of sacrificing prior core values that had made sense before. 
+I think that setting goals and practices is more objective and easier to understand because they don't try to step into complex world of moral values or personal traits, and could be changed over time as the company evolves without fear of sacrificing prior core values that had made sense before. 
 
 For example, every startup has to promote practices of being "nimble and agile", to "move fast and break things" but after it has evolved into a multi-national corporation and started building rockets, "moving fast and breaking things" as a corporate practice will be a problem, but changing a set of practices for a rocket-building division would be a reasonable thing to do.
 
@@ -104,7 +101,7 @@ Companies can emphasize certain goals that are key to success at different stage
 
 ## Stating basic moral principles
 
-As I mentioned before, our current tech culture is very toxic, that's why explicitly stating and over communicating basic principles is a good idea and should not be just a part of some company moral culture, but a minimum qualifying checklist for any company. 
+As I mentioned before, our current tech culture is very toxic, that's why explicitly stating and communicating basic principles is a good idea and should not be just a part of some company moral culture, but a minimum qualifying checklist for any company. 
 
 Here are some good examples:
 
