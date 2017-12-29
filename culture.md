@@ -37,7 +37,7 @@ This argument resonates with me, mostly because in current by-defaut-hostile tec
 
 ## Dangers of implementing company culture
 
-Implementing any corporate culture is a social experiment on the company, sometimes
+Implementing any corporate culture is a social experiment on the people working at the company, sometimes
 with limited time span and resources while simultaneously trying to find product-market-fit or reach business goals.
 
 Here are some dangers I see when implementing and enforcing company culture, especially in a startup:
