@@ -100,7 +100,7 @@ Goals and practices are easier translated into processes and their efficienty ca
 
 Service departments can focus more on support metrics and customer satisfaction, while engineering departments will be using different set of metrics such as defects and regressions ratios, metrics measuring product quality - regression ratios and bug report counts. 
 
-Companies can emphasize certain goals that are key to success at different stages of their liftimes, e.g. startups that should be obsessed about user adoption will put customer acquisition and churn rates as the most important and stated company goal, while established companies may pick another metric, like increasing profit margins to protomote more effective sales and engineering processes. 
+Companies can emphasize certain goals that are key to success at different stages of their lifetimes, e.g. startups that should be obsessed about user adoption will put customer acquisition and churn rates as the most important and stated company goal, while established companies may pick another metric, like increasing profit margins to protomote more effective sales and engineering processes. 
 
 ## Stating basic moral principles
 
@@ -112,7 +112,7 @@ Stating that company is diverse and inclusive, for example as in [Nylas](https:/
 
 > Diversity and inclusion are core to our culture, and we are actively committed to building a more inclusive work environment.
 
-Nylas signals that they care about diversity, and are concisous of the problem in the tech space.
+Nylas signals that they care about diversity, and are conscious of the problem in the tech space.
 
 In case of our company, Gravitational we [state](https://github.com/gravitational/careers/blob/master/senior-backend-engineer.md):
 
@@ -126,11 +126,11 @@ This is to signal that we are family-friendly and won't exploit people's time wo
 
 This is a good way to signal that company cares about people being polite and professinal to each other.
 
-I would argue again, that these should not be some differentiating company culture principles, but these are in fact basic society moral principles reinforced by companies that care and translated to work environment terms.
+I would argue again, that these are not differentiating company culture principles, but are in fact basic society moral principles reinforced by companies that care and translated to work environment terms.
 
-I think that many companies get away with their corporate cultures, because they simply pick (semi-randomly) one of the basic society principles, translate it to tech corporate speak and declare it a corporate culture core value. 
+I think that many companies get away with their corporate cultures, because they simply pick (semi-randomly) basic society principles, translate them to tech corporate speak and declare them corporate culture core values. 
 
 People who work at those companies of course agree with not hiring jerks, avoiding bullshit or caring about customers and choose to ignore the usual corporate speak while focusing on their daily jobs. 
 
-That was I was doing many times in my career anyways.
+Thats what I was doing many times in my career anyways.
 
