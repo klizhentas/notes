@@ -14,42 +14,42 @@ In the spirit of questioning everything, I have some questions and concerns abou
 
 Why company needs somewhat special culture or core values different from the culture of the society it exists in? 
 
-I think that there is a perception that special culture somehow contributes to the company success or failure,
+There is a perception that special culture somehow contributes to the company success or failure,
 differentiates the company from the competition and makes it good or a bad place to work. 
 
-However I have never read the actual study on effects of corporate culture on the company success. Even in studies by Google, they came to realization that basic common sense principles [still work the best](https://www.nytimes.com/2016/02/28/magazine/what-google-learned-from-its-quest-to-build-the-perfect-team.html)
+However I have never read the actual study on positive effects of corporate culture on the company success. In the ones that I have read, folks came to realization that basic common sense principles [still work the best](https://www.nytimes.com/2016/02/28/magazine/what-google-learned-from-its-quest-to-build-the-perfect-team.html)
 
-The other argument that I've heard is that culture could be used to attract like-minded individuals,
+The other argument is that culture could be used to attract like-minded individuals,
 however in my opinion it is hard to quantify what "like mindedness" usually means and whether it 
 leads to good results. 
 
-Even at companies I worked at/created we were stating implicit culture principles, that proved to be successfully challenged, for example in some of our ads we mentioned that we are "hackers using emacs or vim" because we thought that it would attract some special folks - hackers, who like sitting in their terminals, and digging kernel sources.
+Even at companies I worked at/created we were sometimes stating implicit culture principles, that were successfully challenged by new team members and were proven to be wrong. For example in some of our hiring ads we mentioned that we are "hackers using emacs or vim" because we thought that it would attract some special folks - hackers, who like sitting in their terminals, and digging kernel sources.
 
-Poeple joining the team found this line in the ad ridiculous, as they were using Microsoft VS or Eclipse. Turned out they were great hackers after all, and just laughed at this part of the ad. Later I realized that this was pretty stupid idea that editor choice somehow reflects personality of a user, but this is a good example of our biases disguised as "culture" statements.
+Poeple joining the team found this line in the ad ridiculous, as they were using Microsoft VS or Eclipse. Turned out they were great hackers after all, and just laughed at this part of the ad. Later I realized that this was pretty stupid idea that editor choice somehow reflects personality of an engineer, but this is a good example of our biases masquerading as "culture" statements.
 
 The third argument is that company culture can be used as a safe guard - to signal that company is a safe 
-work environment for people of all minorities. This argument resonates with me, mostly because in current by-defaut-hostile tech environment any company has to declare conformance to basic common principles to signal that its a safe and reasonable place to work, however I would not state that this requires some special company culture, and simple basic society norms still apply - the point that I'm going to elaborate on later.
+work environment for people of all groups and minorities. This argument resonates with me, mostly because in current by-defaut-hostile tech environment any company has to declare conformance to basic common principles to signal that its a safe and reasonable place to work, however I would not state that this requires some special company culture, and simple basic society norms still apply - the point that I'm going to elaborate on later.
 
 ## Dangers of implementing corporate culture.
 
-Implementing any corporate culture is doing a social experiment on the company, sometimes
-under pressure and with limited time span and resources.
+Implementing any corporate culture is very often doing a social experiment on the company, sometimes
+under pressure and with limited time span and resources while trying to find product-market-fit.
 
-Here are some dangers I see when implementing and enforcing 
-company culture:
+Here are some dangers I see when implementing and enforcing company culture, especially in a startup:
 
-* Implementation is usually done and promoted by leadership, this means there is a strong i
+Implementation is usually done and promoted by leadership, this means there is a strong i
   incentive to everyone to "play along" even if they disagree. Even when declared as collaborative process
   still usually enforced and implemented by leadership. Middle management can use this as an opportunity
   to get rid of folks who usually disagree.
-* Failure of the expermient can result in company failure or high churn - e.g. Zappos and Github with their 
-  flat hierarchies.
-* Methods are very scientifically unproven, e.g. folks conduct special "culture panels" filtering out candidates,
-  but how do they know they have succeeded? Do they have a control group for this experiment? How do they 
-  measure any success or failure? Do they conduct anonimous interviews and studies to check effects?
-* Very often leads to attracting "business consultants" helping out with culture - six sigma style folks who 
-  distract and annoy people. As in "Pacific Bell Story" from 1987 using some obscure half mystic techniques and imposing
-  them on the poor working folks.
+  
+Failure of the expermient can result in company failure or high churn - e.g. Zappos and Github with their 
+flat hierarchies. Leaders often find that well-intentioned culture statements, can lead to processes that 
+are very dangerous for the team, e.g [here](https://a16z.com/2014/07/22/how-to-ruin-your-company-with-one-bad-process/)
+
+Methods of establishing such cultures are scientifically unproven, for example folks conduct special 
+"culture panels" filtering out candidates, but how do they know they have succeeded? Do they have a control group for this experiment? How do they  measure any success or failure?  Do they conduct anonimous interviews and studies to check effects?
+
+For a larger company implementing a corporate culture very often leads to attracting "business consultants" helping out with culture - six sigma style folks who distract and annoy employees. As in "Pacific Bell Story" from 1987 using some obscure half mystic techniques and [imposing them on the poor working folks](https://www.theguardian.com/news/2017/nov/23/from-inboxing-to-thought-showers-how-business-bullshit-took-over)
 
 ## No special culture
 
