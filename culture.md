@@ -32,7 +32,7 @@ Poeple joining the team found this line in the ad ridiculous, as they were using
 The third argument is that company culture can be used as a safe guard - to signal that company is a safe 
 work environment for people of all groups and minorities. 
 
-This argument resonates with me, mostly because in current by-defaut-hostile tech environment any company has to declare conformance to basic common principles to signal that its a safe and reasonable place to work, however I would not state that this requires some special company culture, and simple basic society norms still apply.
+This argument resonates with me, mostly because in current by-defaut-hostile tech environment any company has to declare conformance to basic common principles to signal that its a safe and reasonable place to work, however I would not state that this requires some special company culture, and simple basic society norms will work great.
 
 
 ## Dangers of implementing company culture
