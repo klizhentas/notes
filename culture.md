@@ -44,7 +44,7 @@ Here are some dangers I see when implementing and enforcing company culture, esp
 
 Implementation is usually done and promoted by leadership, this means there is a strong incentive to everyone to "play along" even if they disagree. 
 
-Even when declared as collaborative process it still usually enforced and implemented by the leadership. Middle management can use this as an opportunity to get rid of folks who usually disagree.
+Even when declared as collaborative process it is usually enforced and implemented by the leadership or higher level management. Middle management can use this as an opportunity to get rid of folks who usually disagree.
   
 The failure of such expermient can result in company failure or high churn - e.g. [Zappos](https://qz.com/849980/zappos-is-struggling-with-holacracy-because-humans-arent-designed-to-operate-like-software/) and [Github](https://www.bloomberg.com/news/articles/2016-09-06/why-github-finally-abandoned-its-bossless-workplace) with their 
 flat hierarchies. Leaders often find that well-intentioned culture statements, can lead to processes that 
