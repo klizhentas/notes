@@ -61,7 +61,7 @@ One of the companies I worked at declared that it treated every employee as "Fri
 
 Another company wanted to foster techical leadership and invited us on the training session, where coach asked us to write our own obituaries and read them out loud. May be it is a cultural thing, but it did not resonate well with me as I was not ready for this very-personal exposure in a setting with folks who I met a day ago.
 
-I am sure that both coach and the company were well-meaning, but many times mixing moral, personal and human values, principles and events in a rushed training session format leads to very strange and even ridiculous outcomes.
+I am sure that both coach and the company were well-meaning, but so often mixing moral,personal and human values, principles and events in a rushed training session format leads to very strange and even ridiculous outcomes.
 
 ## No special culture culture
 
@@ -80,7 +80,7 @@ up through [multi-national consensus](http://www.ohchr.org/EN/UDHR/Documents/UDH
 
 I realize that this in its own a special culture - having no special culture at all.
 
-## Company goals as alternatives to corporate culture.
+## Company goals as alternatives to company culture
 
 Instead of calling something a culture, inventing some core values and conducting social experiments using risky and unproven social experiments, I would suggest to simply 
 tie the moral core values of the company to basic principles of the modern society.
@@ -92,4 +92,34 @@ I think these goals are more ojbective and easier to understand because they don
 as the company evolves without fear of sacrificing some "core values" that made sense before. 
 
 For example every startup has to be "nimble and agile", "experiment and break things" but after it has evolved in multi-national corporation and started building rockets, "nimble" as a corporate culture will be a problem, but changing a company goal for a rocket-building division will be a reasonable thing to do.
+
+## Stating basic moral principles
+
+As I mentioned before, our current tech culture is very toxic by default, that's why explicitly stating and over communicating basic principles is a good thing and should not be just a part of some company moral culture, but a minimum qualifying checklist for any company. 
+
+Here are some good examples:
+
+Stating that company is diverse and inclusive, for example as in [Nylas](https://www.nylas.com/jobs/) case: 
+
+> Diversity and inclusion are core to our culture, and we are actively committed to building a more inclusive work environment.
+
+Nylas signals that they care about diversity, and are concisous of the problem in the tech space.
+
+In case of our company, Gravitational we [state](https://github.com/gravitational/careers/blob/master/senior-backend-engineer.md)
+
+> We are also dedicated to our friends, families, and hobbies outside of work. Our past experiences building companies taught us about the importance of life and work balance. It matters even more when you are building a huge and lasting company, like Gravitational.
+
+This is to signal that we are family-friendly and won't exploit people's time working with us.
+
+This is a good way to signal that company is concious about being a safe space for all kinds people to work on.
+
+[Netflix] no [brilliat jerks](https://www.slideshare.net/reed2001/culture-1798664/36-Brilliant_Jerks_Some_companies_tolerate) described in [Brendan Gregg's blog](http://www.brendangregg.com/blog/2017-11-13/brilliant-jerks.html) states:
+
+> Do not tolerate brilliant jerks. The cost of teamwork is too high.
+
+This is a good way to signal that company cares about people being polite and professinal to each other.
+
+
+
+I would argue again, that these should not be some differentiating company culture principles, but these are in fact basic society moral principles reinforced by companies that care and translated to work environment terms.
 
