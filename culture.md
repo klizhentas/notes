@@ -99,7 +99,11 @@ as the company evolves without fear of sacrificing some "core values" that made 
 
 For example every startup has to be "nimble and agile", "experiment and break things" but after it has evolved in multi-national corporation and started building rockets, "nimble" as a corporate culture will be a problem, but changing a company goal for a rocket-building division will be a reasonable thing to do.
 
-Goals can be meausred using metrics like support response times, customer satisfaction ratings, margins and profits. Service departments can focus more on support metrics, customer satisfaction, while engineering departments will be using different set of metrics as defects and regressions ratios, metrics measuring product quality like regression ratios and bug report counts. 
+Goals are easier translated to processes and can be meausred using metrics like support response times, customer satisfaction ratings, margins and growth ratios. 
+
+Service departments can focus more on support metrics, customer satisfaction, while engineering departments will be using different set of metrics as defects and regressions ratios, metrics measuring product quality like regression ratios and bug report counts. 
+
+Companies can emphasize certain goals that are key to success at different stages of their liftimes, e.g. startups  obsessed about user adoption will put customer acquisition and churn rates as the most important and stated company goal, while established companies may pick another metric, like increasing profit margins to protomote more effective sales and engineering processes.
 
 ## Stating basic moral principles
 
