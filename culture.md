@@ -25,7 +25,7 @@ The other argument is that culture could be used to attract like-minded people,
 however in my opinion it is hard to quantify what "like mindedness" usually means and whether it 
 leads to good results. 
 
-Even at companies I worked at/created we were sometimes stating implicit culture principles, that were successfully challenged by new team members and were proven to be wrong. For example in some of our hiring ads we mentioned that we are "hackers using emacs or vim" because we thought that it would attract some special folks - hackers, who like sitting in their terminals, and digging kernel sources.
+Even at companies I worked at/co-founded we were sometimes stating implicit culture principles, that were successfully challenged by new team members and were proven to be wrong. For example in some of our hiring ads we mentioned that we are "hackers using emacs or vim" because we thought that it would attract some special folks - hackers, who like sitting in their terminals, and digging kernel sources.
 
 Poeple joining the team found this line in the ad ridiculous, as they were using Microsoft VS or Eclipse. Turned out they were great hackers after all, and just laughed at this part of the ad. Later I realized that this was pretty stupid idea that editor choice somehow reflects personality of an engineer, but this is a good example of our biases masquerading as "culture" statements.
 
