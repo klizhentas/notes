@@ -67,20 +67,20 @@ Another company wanted to foster techical leadership and invited us on the train
 
 I am sure that both coach and the company were well-meaning, but so often mixing moral,personal and human values, principles and events in a rushed training session format leads to very strange and even ridiculous outcomes.
 
-The best corporate trainings [I had](https://www.helloinnerspace.org/) were all about basic, human interactions promoted and reinforced simple truths like being respectful, careful providing feedback and listening to each other. Those ones had big impact on me both in and outside of company setting.
+The best corporate trainings [I had](https://www.helloinnerspace.org/) were all about basic, human interactions promoted and reinforced simple truths like being respectful, careful, providing feedback and listening to each other. Those ones had big impact on me both in and outside of the company setting.
 
 ## No special culture culture
 
 The society we live in promotes some basic core values we share, for example, be kind and respectful to each other, be polite, 
-celebrate diversity and so on. 
+celebrate diversity, respect basic human rights.
 
 U.S. also promotes the freedom of speech, the spirit of enterpreneurship, acceptance of failure and 
-establishes the rule of the law - great values in my opinion that are keys to America success story.
+establishes the rule of the law - great values that are keys to America success story.
 
 Those basic principles are the fabric of our society, often invisible, ever changing,
 but we can feel their presence and are in common agreement on all of them already.
 
-Why not stick to those basic principles, when society uses very complicated process to establish, verifies them through voting, debates,
+Why not stick to those basic principles, when society uses very complicated process to establish, verifies them through voting,
 philosophical debates, revolutions, economy ups and downs over hundreds, sometimes thousands of years, comes
 up through [multi-national consensus](http://www.ohchr.org/EN/UDHR/Documents/UDHR_Translations/eng.pdf)?
 
@@ -91,7 +91,7 @@ I realize that this in its own a special culture - having no special culture at 
 Instead of calling something a culture, inventing some core values and conducting social experiments using risky and unproven social experiments, I would suggest to simply 
 tie the moral core values of the company to basic principles of the modern society.
 
-To differentiate from the other companies, companies should set and focus specific goals and properties caused by the markets they operate in - e.g. Amazon being a retailer
+To differentiate from the other companies, companies should set and focus on specific goals caused by the markets they operate in and the products they are building - e.g. Amazon being a retailer
 has to be margin efficient, Google has to be smart when it comes to search and A.I. 
 
 I think these goals are more ojbective and easier to understand because they don't try to step into complex world of moral values territory, and could be changed over time
@@ -125,7 +125,7 @@ This is a good way to signal that company is concious about being a safe space f
 
 This is a good way to signal that company cares about people being polite and professinal to each other.
 
-
-
 I would argue again, that these should not be some differentiating company culture principles, but these are in fact basic society moral principles reinforced by companies that care and translated to work environment terms.
+
+I have a suspicion that many companies get away with their corporate cultures, because they simply pick (sometimes randomly) one of the basic society principles and apply it universally. People who work at those companies of course agree with not hiring jerks, avoiding bullshit or caring about customers and simply play along focusing on their daily jobs.
 
