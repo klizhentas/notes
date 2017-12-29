@@ -18,7 +18,7 @@ Why company needs somewhat special culture or core values different from the cul
 There is a perception that special culture somehow contributes to the company success or failure,
 differentiates the company from the competition and makes it a good or a bad place to work. 
 
-However I have never read the actual study on measured positive effects of corporate culture on the company success. In the ones that I have read, folks came to realization that basic common sense principles [still work the best](https://www.nytimes.com/2016/02/28/magazine/what-google-learned-from-its-quest-to-build-the-perfect-team.html).
+However I have never read the actual study that measured positive effects of corporate culture on the company success. In the ones that I have read, folks came to realization that basic common sense principles [still worked the best](https://www.nytimes.com/2016/02/28/magazine/what-google-learned-from-its-quest-to-build-the-perfect-team.html).
 
 The other argument is that culture could be used to attract like-minded people,
 however in my opinion it is hard to quantify what "like mindedness" usually means and whether it 
@@ -26,12 +26,11 @@ leads to good results.
 
 Even at companies I worked at/co-founded we were sometimes stating implicit culture "hints" aiming to attract like-minded folks, that were successfully challenged by new team members and were proven to be wrong. For example in some of our hiring ads we mentioned that we are "hackers using emacs or vim" because we thought that it would attract some special people - hackers, who as we imagined, like using their text-based editors and digging kernel sources all day long.
 
-Poeple joining the team found this line in the ad ridiculous, as they were using Microsoft VS or Eclipse. Turned out they were great hackers after all, and just laughed at this part of the ad. Later I realized that this was pretty stupid idea that editor choice somehow reflects personality of an engineer, but this is a good example of how our biases were masquerading as "culture" statements.
+People joining the team found this line in the ad ridiculous, as they were using Microsoft VS or Eclipse. Turned out they were great hackers after all, and just laughed at this part of the ad. Later I realized it was a pretty stupid idea that editor choice somehow reflects personality of an engineer, but this is a good example of how our biases are masquerading as "culture" statements.
 
 The third argument is that company culture can be used to signal that company is a safe work environment for people of all groups. 
 
-This argument resonates with me, mostly because in current by-defaut-hostile tech environment any company has to declare conformance to basic common principles to signal that its a safe and reasonable place to work, however I would not state that this requires some special company culture, and declaring some simple basic society norms will work great.
-
+This argument resonates with me, mostly because in current by-defaut-hostile tech environment any company has to declare conformance to basic common principles to signal that it is a safe and reasonable place to work.
 
 ## Dangers of implementing company culture
 
@@ -40,32 +39,32 @@ conducted with a limited time span and resources while simultaneously trying to 
 
 Here are some dangers I see when implementing and enforcing company culture, especially in a startup:
 
-Implementation is usually done and promoted by the leadership, this means there is a strong incentive to everyone to "play along" even if people disagree. 
+Implementation is usually done and promoted by the leadership and there is a strong incentive to everyone to "play along" even if people disagree. 
 
-Even when declared as collaborative process it is usually enforced and implemented by the top management. Middle management can use this as an opportunity to get rid of folks who [disagree](https://www.theguardian.com/news/2017/nov/23/from-inboxing-to-thought-showers-how-business-bullshit-took-over) or seen as a threat to someone's career.
+Even when declared as collaborative process it is usually enforced and implemented by the top management. Middle management can use see this as an opportunity to get rid of folks who [disagree](https://www.theguardian.com/news/2017/nov/23/from-inboxing-to-thought-showers-how-business-bullshit-took-over) or seen as a threat to someone's career.
   
-The failure of such expermient can result in a company failures - high churn churn rates [like in Zappos](https://qz.com/849980/zappos-is-struggling-with-holacracy-because-humans-arent-designed-to-operate-like-software/) and [Github](https://www.bloomberg.com/news/articles/2016-09-06/why-github-finally-abandoned-its-bossless-workplace) with their 
+The failure of such experiment can result in failures - high churn churn rates [like in Zappos](https://qz.com/849980/zappos-is-struggling-with-holacracy-because-humans-arent-designed-to-operate-like-software/) and [Github](https://www.bloomberg.com/news/articles/2016-09-06/why-github-finally-abandoned-its-bossless-workplace) with their 
 flat hierarchies. 
 
 Leaders often find that well-intentioned culture statements, can lead to processes that 
 are very dangerous [for the team](https://a16z.com/2014/07/22/how-to-ruin-your-company-with-one-bad-process/).
 
 Methods of establishing such cultures are scientifically unproven, for example folks conduct special 
-"culture panels" filtering out candidates, but how do they know they have succeeded? In the blog posts CEOs implementing such cultures, never mention whether they have a control group for this experiment, or whether they measure success or failure and whether they conduct anonimous interviews and studies to check effects.
+"culture panels" filtering out candidates, but how do they know they have succeeded? In the blog posts CEOs implementing such cultures, never mention if they have a control group for this experiment, or how they measure success or failure and whether they conduct anonymous interviews and studies to check effects.
 
-When I read these articles without mentioning any research or any phisophical and sociological basis, I think that this is then aspirational set of random things founders consider to be important at this particular moment of their lives, set of biases or beliefs stated as core values with undefined effect on the company.
+When I read these articles that don't mention any research or any phisophical and sociological basis, I see a set of aspirational statements that founders consider to be important at this particular moment of their lives, set of biases or beliefs stated as core values with undefined effect on the company.
 
-For a larger company implementing corporate culture this often leads to attracting "business consultants" - six sigma-style folks who distract and annoy employees by introducing rigid processes and artificial terms. Or even worse like in "Pacific Bell Story" from 1987, when company used some obscure half mystic techniques and [imposed them as a cult](https://www.theguardian.com/news/2017/nov/23/from-inboxing-to-thought-showers-how-business-bullshit-took-over).
+A larger company implementing corporate culture attracts "business consultants" - six sigma-style folks who often distract and annoy employees by introducing rigid processes and artificial terms. Or even worse like in "Pacific Bell Story" from 1987, when company used some obscure half mystic techniques and [imposed them as a cult](https://www.theguardian.com/news/2017/nov/23/from-inboxing-to-thought-showers-how-business-bullshit-took-over).
 
 ## How it all can go wrong
 
-Several times I have personally encountered the cases of company culture going wrong and leading to strange and unintended consequences. 
+Several times I have encountered the cases of company culture going wrong and leading to strange and unintended consequences. 
 
-One of the companies I worked at declared that it treats every employee as "Friends and family". This core value did not work at all when company had to set a round of layoffs. Who fires their friends and family when things go bad? This tells me that while being well intentioned this value did not work at all in a professional setting when company has sometimes to fire people who underperform and reward high performers - things not compatible with "family and friends" value at all.
+One of the companies I worked at declared that it "treated every employee as friends and family". This core value did not work at all when company had to do a round of layoffs. Who fires their friends and family when things go bad? This tells me that while being well intentioned this value does not work in a professional setting when company has sometimes to fire people who underperform and reward high performers.
 
 Another company wanted to foster techical leadership and invited us on the training session, where coach asked us to write our own obituaries and read them out loud. May be it is a cultural thing, but it did not resonate well with me as I was not ready for this very-personal exposure in a setting with folks who I met a day ago.
 
-I am sure that both coach and the company were well-meaning, but so often mixing moral, personal and human values, principles and events in a rushed training session format leads to very strange and even ridiculous outcomes.
+I am sure that both the coach and the company were well-meaning, but often promoting moral values and principles in a rushed training session format leads to very strange and even ridiculous outcomes.
 
 The best corporate trainings [I had](https://www.helloinnerspace.org/) were all about basic, human interactions that promoted and helped to practice simple values like being respectful and polite, training us on providing feedback and listening to each other. Those ones had big impact on me both in and outside of the company setting.
 
@@ -75,7 +74,7 @@ The society we live in promotes many basic core values we all share, for example
 celebrate diversity, respect basic human rights.
 
 U.S. also promotes the freedom of speech, the spirit of enterpreneurship, acceptance of failure and 
-establishes the rule of the law - great values that are keys to America success story.
+establishes the rule of the law - great values that are keys to it's success story.
 
 Those basic principles are the fabric of our society, often invisible, ever changing,
 but we can feel their presence and are in common agreement on all of them.
@@ -84,22 +83,22 @@ Why not stick to those basic principles, when society uses very complicated proc
 philosophical debates, revolutions, economy ups and downs over hundreds, sometimes thousands of years, comes
 up through [multi-national consensus](http://www.ohchr.org/EN/UDHR/Documents/UDHR_Translations/eng.pdf)?
 
-I realize that this in its own a special culture - having no special culture at all.
+I understand that having no special culture at all is a culture on it's own.
 
 ## Company goals and practices as alternatives to company culture
 
-Instead of calling something a culture, inventing some core values and conducting social experiments using risky and unproven methods, I suggest to simply 
+Instead of calling something a culture, coming up core values and conducting social experiments using risky and unproven methods, I suggest to simply 
 tie the moral core values of the company to basic principles of the modern society.
 
-To differentiate from the other companies, companies should set and focus on specific goals and develop practices influenced by the markets they operate in, the products they are building and the stage of the companies, for example Amazon being in a a retailer has to be margin efficient, Google has to be smart when it comes to search and A.I. 
+Companies should focus on specific goals and develop practices influenced by the markets they operate in, the products they are building and their stage, for example Amazon being a retailer has to be margin efficient, Google has to be smart when it comes to search and A.I. 
 
-I think that setting goals and practices is more ojbective and easier to understand because they don't try to step into complex world of moral values, and could be changed over time as the company evolves without fear of sacrificing prior "core values" that made sense before. 
+I think that setting goals and practices is more objective and easier to understand because they don't try to step into complex world of moral values, and could be changed over time as the company evolves without fear of sacrificing prior core values that had made sense before. 
 
-For example every startup has to promote practices of being "nimble and agile", to "move fast and break things" but after it has evolved into multi-national corporation and started building rockets, "moving fast and breaking things" as a corporate practice will be a problem, but changing a set of practices for a rocket-building division will be a reasonable thing to do.
+For example, every startup has to promote practices of being "nimble and agile", to "move fast and break things" but after it has evolved into a multi-national corporation and started building rockets, "moving fast and breaking things" as a corporate practice will be a problem, but changing a set of practices for a rocket-building division would be a reasonable thing to do.
 
 Goals and practices are easier translated into processes and their efficienty can be quantified using metrics like support response times, customer satisfaction ratings, margins and growth ratios. 
 
-Service departments can focus more on support metrics, customer satisfaction, while engineering departments will be using different set of metrics such as defects and regressions ratios, metrics measuring product quality like regression ratios and bug report counts. 
+Service departments can focus more on support metrics and customer satisfaction, while engineering departments will be using different set of metrics such as defects and regressions ratios, metrics measuring product quality - regression ratios and bug report counts. 
 
 Companies can emphasize certain goals that are key to success at different stages of their liftimes, e.g. startups that should be obsessed about user adoption will put customer acquisition and churn rates as the most important and stated company goal, while established companies may pick another metric, like increasing profit margins to protomote more effective sales and engineering processes. 
 
