@@ -4,14 +4,12 @@ Corporate culture is usually declared as a set of "core values" - moral and busi
 
 These principles are enforced either implicitly using the system of reward and punishment or explicitly during hiring, performance evaluation processes and organizational structure.
 
-There are many ideas about good and bad company culture, suggestions on how to build one and many stories about different 
-experiments conducted by company leaderships.
+There are many ideas about good and bad company cultures, suggestions on how to build one and many stories about different 
+experiments conducted by companies, very often conflicting with each other.
 
-I was always curious about the whole space, mostly because I encountered statements declared as truths, while being very subjective and questionable.
+For example, some consider "Customer first" to be a bad core value while "No Bullshit" to be a good one. Why is that so?
 
-For example, some consider "Customer first" to be a bad core value while "No Bullshit" to be a good one.
-
-In the spirit of questioning everything I wrote down my main concerns about the general idea, some cautinary tales and personal experiences I had with implementations go wrong and propose an alternative approach.
+In the spirit of questioning everything I wrote down my main concerns about the general idea, some cautionary tales and personal experiences I had with implementations of corporate cultures that go wrong and propose an alternative approach.
 
 ## Why have special corporate culture at all?
 
