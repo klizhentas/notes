@@ -6,9 +6,11 @@ enforced implicitly using rewards and punishment system or explicitly with some 
 There are many ideas about good and bad company culture, suggestions on how to build one and many stories about different 
 experiments conducted by company leaderships.
 
-For example, some consider "Customer first" to be a bad core value whle "No B.S." to be a good one.
+I was always curious about the whole space, mostly because I encountered statements declared as truths, while being very subjective and questionable.
 
-In the spirit of questioning everything, I have some questions and concerns about the whole idea.
+For example, some consider "Customer first" to be a bad core value whle "No Bullshit" to be a good one.
+
+In the spirit of questioning everything I wrote down my main concerns about the general idea, some cautinary tales and personal experiences I had with implementations go wrong and propose an alternative approach.
 
 ## Why have special corporate culture at all?
 
