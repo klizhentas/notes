@@ -117,8 +117,6 @@ In case of our company, Gravitational we [state](https://github.com/gravitationa
 
 This is to signal that we are family-friendly and won't exploit people's time working with us.
 
-This is a good way to signal that company is concious about being a safe space for all kinds people to work on.
-
 [Netflix] no [brilliat jerks](https://www.slideshare.net/reed2001/culture-1798664/36-Brilliant_Jerks_Some_companies_tolerate) described in [Brendan Gregg's blog](http://www.brendangregg.com/blog/2017-11-13/brilliant-jerks.html) states:
 
 > Do not tolerate brilliant jerks. The cost of teamwork is too high.
