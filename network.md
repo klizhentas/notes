@@ -56,3 +56,4 @@ network/friends/<date>/post_name_files.gpg
 * How to rotate private keys
 * File naming and hashing. Use CAS to make it easy to sync data from peers. Do not expose metadata in file names.
 * How to decrypt on the client and post.
+* Encryption keys are encrypted and stored locally. Encrypted with password of the user, decrypted on the client. What if user looses password? Will they loose all their data? Should have option of unencrypted local cache or use services like tarsnap?
