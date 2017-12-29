@@ -72,7 +72,7 @@ up through [multi-national consensus](http://www.ohchr.org/EN/UDHR/Documents/UDH
 
 I realize that this in its own a special culture - having no special culture at all.
 
-## Alternatives to corporate culture.
+## Company goals as alternatives to corporate culture.
 
 Instead of calling something a culture, inventing some core values and conducting social experiments using risky and unproven social experiments, I would suggest to simply 
 tie the moral core values of the company to basic principles of the modern society.
