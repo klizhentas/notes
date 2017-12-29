@@ -55,7 +55,7 @@ Methods of establishing such cultures are scientifically unproven, for example f
 
 When I read those articles without mentioning any research or any prior phisophical and sociological basis, I think that this is then aspirational set of random things founders consider to be important at this particular moment of their lives, set of biases or beliefs stated as core values. 
 
-For a larger company implementing a corporate culture very often leads to attracting "business consultants" helping out with culture - six sigma style folks who distract and annoy employees. As in "Pacific Bell Story" from 1987 using some obscure half mystic techniques and [imposing them on the working folks](https://www.theguardian.com/news/2017/nov/23/from-inboxing-to-thought-showers-how-business-bullshit-took-over)
+For a larger company implementing a corporate culture very often leads to attracting "business consultants" helping out with culture - six sigma-style folks who distract and annoy employees. As in "Pacific Bell Story" from 1987 using some obscure half mystic techniques and [imposing them as a cult](https://www.theguardian.com/news/2017/nov/23/from-inboxing-to-thought-showers-how-business-bullshit-took-over).
 
 ## How it all can go wrong
 
