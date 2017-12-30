@@ -9,7 +9,7 @@ experiments conducted by companies, very often conflicting with each other.
 
 For example, some consider "Customer first" to be a bad core value while "No Bullshit" to be a good one. Why is that so?
 
-In the spirit of questioning everything I wrote down my main concerns about the general idea, some cautionary tales and personal experiences I had with implementations of corporate cultures that go wrong and propose an alternative approach.
+I wrote down my main concerns about the general idea, some cautionary tales and personal experiences I had with implementations of corporate cultures that go wrong and propose an alternative approach.
 
 ## Why have special corporate culture at all?
 
