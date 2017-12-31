@@ -97,7 +97,9 @@ Goals and practices are easier translated into processes and their efficienty ca
 
 Service departments can focus more on support metrics and customer satisfaction, while engineering departments will be using different set of metrics such as defects and regressions ratios, metrics measuring product quality - regression ratios and bug report counts. 
 
-Companies can emphasize certain goals that are key to success at different stages of their lifetimes, e.g. startups that should be obsessed about user adoption will put customer acquisition and churn rates as the most important and stated company goal, while established companies may pick another metric, like increasing profit margins to protomote more effective sales and engineering processes. 
+Companies can emphasize certain goals that are key to success at different stages of their lifetimes, e.g. startups should be obsessed about user adoption and will put customer acquisition and churn rates as the most important and stated company goals, while established companies may pick another metric, like increasing profit margins to protomote more effective sales and engineering processes. 
+
+In my experience when people understand the business goals, they get behind them, organize, measure, buld practices and methodics, optimize and braistorm - exactly the effect leaders would want to achieve.
 
 ## Stating basic moral principles
 
