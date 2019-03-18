@@ -19,7 +19,7 @@ any hacker will hit a block - why this thing does not work? In an open system, a
 dig through the library code, language runtime, kernel and drivers, and get some great answers and experience as a result. 
 When you encounter the same problem on a closed system it feels like you hit a wall, and there is no way to climb over it. 
 
-Last time I got this feeling when starting my first job as a systems engineer on Windows. 
+First time I got this feeling when starting my first job as a systems engineer on Windows. 
 Compared to the Linux, MSDN was very polished and robust piece of documentation (that you had to pirate if you are a poor 
 student in rural Russia), but it had one great omission - source code. Linux docs sometimes were terrible, but with code 
 and patience, you can get all the answers you want.
